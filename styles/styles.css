@@ -2,10 +2,10 @@
 
 :root {
   /* variáveis cores */
-  --cor-primaria: #3c486b;
-  --cor-secundaria: #f0f0f0;
-  --cor-terciaria: #f9d949;
-  --cor-hover: #f45050;
+  --cor-primaria: #222831;
+  --cor-secundaria: #eeeeee;
+  --cor-terciaria: #14ffec;
+  --cor-hover: #364f6b;
 
   /*variáveis fontes */
   --fonte-primaria: "Krona One", sans-serif;
