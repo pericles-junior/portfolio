@@ -101,13 +101,8 @@ body {
   font-family: var(--fonte-secundaria);
 }
 
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
   background-color: var(--cor-hover);
-}
-
-.apresentacao__links__curso {
-  color: var(--cor-terciaria);
-  text-decoration: none;
 }
 
 .apresentacao__imagem {
@@ -126,7 +121,7 @@ body {
 
 @media (max-width: 1200px) {
   .cabecalho {
-    padding: 10%;
+    padding: 15%;
   }
 
   .cabecalho__menu {
